@@ -1,6 +1,6 @@
 Hi there,
 
-- I’m currently learning with help from [docs.github.com](url)
+- I’m currently learning Python
 
 
 <!---
